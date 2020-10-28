@@ -4,7 +4,6 @@
 ```
 git clone https://github.com/beluramondelli/makeSpace.git
 ```
-
 - Install all dependencies
 ```
 cd cypressTests
@@ -17,6 +16,5 @@ npm install
 ```
 ./node_modules/.bin/cypress open
 ```
-
-- In the Cypress window select `bookAppointment.feature`.
-A new Chrome browser will be visible runing the test suite.
+- In the Cypress window you can configure the browser in which the suite will run.
+- Select `bookAppointment.feature`. A new browser will be visible runing the test suite.
