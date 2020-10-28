@@ -19,4 +19,4 @@ npm install
 ```
 
 - In the Cypress window select `bookAppointment.feature`.
-A new Chrome browser will be visible runing the suite.
+A new Chrome browser will be visible runing the test suite.
