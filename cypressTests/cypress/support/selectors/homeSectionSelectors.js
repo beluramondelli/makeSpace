@@ -4,5 +4,6 @@
 
 // Home section
 export const homeSections = {
+    mainMenu: '.site-header',
     zipCodeText: 'input[placeholder="Enter zip code"]',
 };
