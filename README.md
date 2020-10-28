@@ -18,4 +18,5 @@ npm install
 ./node_modules/.bin/cypress open
 ```
 
-- In the Cypress window select `bookAppointment.feature`
+- In the Cypress window select `bookAppointment.feature`.
+A new Chrome browser will be visible runing the suite.
